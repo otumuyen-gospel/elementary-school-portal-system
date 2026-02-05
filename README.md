@@ -20,7 +20,7 @@ this project is the design and implementation of a school web portal using pytho
 # Backend App
 
 ### Installation Guide
-* Clone this repository (school-portal) [https://github.com/otumuyen-gospel/school-portal.git]
+* Clone this repository (elementary-school-portal-system) [https://github.com/otumuyen-gospel/elementary-school-portal-system.git]
 * for the backend install and configure Python, django and  your python virtual environment.
 * navigate to the root folder of the backend app inside the folder of the cloned project.
 * Install dependencies for the project using as stated below.
@@ -423,36 +423,3 @@ this project is the design and implementation of a school web portal using pytho
 ### Authors
 * [otumuyen-gospel](https://github.com/otumuyen-gospel)
 
-
-
-
-
-# Frontend App
-
-### Installation Guide
-* for the frontend install and configure Node.js, NPM and YARN.
-* navigate to the root folder of the react frontend app inside the folder of the cloned project.
-* Install yarn globally.
-```cmd
-    npm install --global yarn
-```
-* Install dependencies for the react project as stated below.
-```cmd
-     yarn install
-```
-* Once the dependencies are installed, then run the following line of code to start the frontend server.
-```cmd
-     yarn start
-```
-
-### App usage
-
-* You can access the frontend from any modern browser of your choosen on port 3000.
-* For testing, users can login using any of the dummy accounts below for accessing the app.
-* Admin(password:admin@123, username:admin)
-* Teacher(password:teacher@123, username:teacher)
-* Student(password:student@123, username:student)
-* Parent(password:parent@123, username:parent)
-
-### Authors
-* [otumuyen-gospel](https://github.com/otumuyen-gospel)
